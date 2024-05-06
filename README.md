@@ -2,12 +2,10 @@
 
 OI, eu sou o Pedro, um estudante de Desenvolvimento de Sistemas,
 e estou sempre tentado aprender mais´e melhorar o que eu já sei.👋👋
-
 <!--
 **PietroMena/PietroMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
