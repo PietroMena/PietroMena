@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 OI, eu sou o Pedro, um estudante de Análise Desenvolvimento de Sistemas,
 e estou sempre tentado aprender mais e melhorar o que eu já sei.👋
