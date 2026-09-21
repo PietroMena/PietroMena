@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-mena/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Mena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target:"_blank" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Mena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PietroMena">
     <img src="https://img.shields.io/badge/GitHub-PietroMena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
