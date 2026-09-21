@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou o Pedro</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=6C63FF&center=true&vCenter=true&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" alt="Estudante de Análise e Desenvolvimento de Sistemas" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante_de_Análise_e_Desenvolvimento-6C63FF?style=for-the-badge" alt="Cargo" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-mena/" target="_blank">
