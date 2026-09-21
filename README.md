@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-mena/" target:"_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-mena/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Mena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PietroMena">
