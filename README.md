@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:pedrohenriquemena111@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
@@ -75,16 +75,6 @@ Calculadora simples e funcional em JavaScript.
 
 ---
 
-## 📊 Estatísticas no GitHub
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PietroMena&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroMena&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
-<p align="center">
-  Obrigado por passar por aqui! Se quiser trocar uma ideia sobre tecnologia ou projetos, me chama no
-  <a href="https://www.linkedin.com/in/pedro-henrique-mena/">LinkedIn</a>. 🤝
+  Obrigado por passar por aqui!
 </p>
