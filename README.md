@@ -13,13 +13,12 @@
   </a>
 </p>
 
-<!-- Quer colocar seu e-mail? Descomente e troque pelo seu:
+
 <p align="center">
   <a href="mailto:SEU_EMAIL_AQUI">
     <img src="https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
--->
 
 ---
 
@@ -27,7 +26,7 @@
 
 - Cursando o **4º semestre de Análise e Desenvolvimento de Sistemas (ADS)**
 - Sorocaba, SP — Brasil
-- Focado em **desenvolvimento full-stack**: front-end com Angular, back-end com Spring Boot e banco de dados relacional
+- **Desenvolvimento full-stack**
 - Gosto de aprender na prática: cada projeto novo é um jeito de fixar o que estudei
 
 ---
