@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o Pedro</h1>
 
-<p align="center">
+<p align="center" style="color: rgb(108, 99, 255)">
   <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br />
-  Full-stack em formação ⚡ · Sempre aprendendo e construindo coisas novas
+  Full-stack em formação · Sempre aprendendo e construindo coisas novas
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-mena/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Mena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pedro-henrique-mena/" target:"_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Mena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PietroMena">
     <img src="https://img.shields.io/badge/GitHub-PietroMena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
