@@ -1,9 +1,6 @@
 <h1 align="center">Olá, eu sou o Pedro</h1>
 
-<p align="center" style="color: rgb(108, 99, 255)">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br />
-  Full-stack em formação · Sempre aprendendo e construindo coisas novas
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=6C63FF&center=true&vCenter=true&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" alt="Estudante de Análise e Desenvolvimento de Sistemas" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-mena/" target="_blank">
